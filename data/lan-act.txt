@@ -1,0 +1,92 @@
+move toward the laptop	right right right right forward forward forward forward forward right forward	go to the laptop_0
+move toward the laptop	right right right right forward forward forward forward forward right forward	go to the laptop_0
+move toward the laptop	right right right forward forward forward forward forward forward forward	go to the laptop_0_1
+move toward the laptop	right right forward forward forward forward forward forward forward	go to the laptop_0_2
+move toward the laptop	right forward forward forward forward forward right forward	go to the laptop_0_3
+move toward the laptop	right right right forward forward forward forward forward	go to the laptop_1
+move toward the laptop	right right forward forward forward forward forward	go to the laptop_1_1
+move toward the laptop	right forward forward forward forward forward	go to the laptop_1_2
+move toward the laptop	forward forward forward forward forward	go to the laptop_1_3
+move toward the laptop	forward forward forward forward	go to the laptop_1_4
+move toward the laptop	right right right right forward forward right forward forward forward forward	go to the laptop_2
+move toward the laptop	right right right forward forward right forward forward forward forward	go to the laptop_2_1
+move toward the laptop	right right forward forward right forward forward forward forward	go to the laptop_2_2
+move toward the laptop	right forward forward right forward forward forward forward	go to the laptop_2_3
+move toward the laptop	forward forward right forward forward forward forward	go to the laptop_2_4
+move toward the laptop	right right right right right forward forward forward forward forward forward right forward left	go to the laptop_3
+move toward the laptop	right right right right forward forward forward forward forward forward right forward left	go to the laptop_3_1
+move toward the laptop	right right right forward forward forward forward forward forward right forward left	go to the laptop_3_2
+move toward the laptop	right right forward forward forward forward forward forward right forward left	go to the laptop_3_3
+move toward the laptop	right right right right forward forward forward forward	go to the laptop_4
+move toward the laptop	right right right forward forward forward forward	go to the laptop_4_1
+move toward the laptop	right right right forward forward forward	go to the laptop_4_2
+move toward the laptop	right right forward forward forward forward	go to the laptop_4_3
+move toward the laptop	right forward forward forward forward	go to the laptop_4_4
+move toward the laptop	right right right right forward forward forward	go to the laptop_5
+move toward the laptop	right right right forward forward forward	go to the laptop_5_1
+move toward the laptop	right right forward forward forward	go to the laptop_5_2
+move toward the laptop	right forward forward forward	go to the laptop_5_3
+move toward the laptop	right right right right right right forward forward forward right forward forward left forward forward	go to the laptop_6
+move toward the laptop	right right right right right forward forward forward right forward forward left forward forward	go to the laptop_6_1
+move toward the laptop	right right right right forward forward forward right forward forward left forward forward	go to the laptop_6_2
+move toward the laptop	right right right forward forward forward right forward forward left forward forward	go to the laptop_6_3
+move toward the laptop	right right forward forward forward right forward forward left forward forward	go to the laptop_6_4
+move toward the laptop	right forward forward forward right forward forward left forward forward	go to the laptop_6_4
+move toward the laptop	right right right right right right right forward forward forward forward	go to the laptop_7
+move toward the laptop	right right right right right right forward forward forward forward	go to the laptop_7_1
+move toward the laptop	right right right right right forward forward forward forward	go to the laptop_7_2
+move toward the laptop	right right right right forward forward forward forward	go to the laptop_7_3
+move toward the laptop	left forward forward forward	go to the laptop_8
+move toward the laptop	left left left left forward forward forward forward	go to the laptop_9
+move toward the laptop	left left left forward forward forward forward	go to the laptop_9_1
+go to the microwave	left forward forward forward forward forward forward forward forward forward forward	go to the microwave_0
+go to the microwave	left left forward forward forward forward forward right forward forward forward forward forward forward forward	go to the microwave_1
+go to the microwave	forward forward forward forward forward forward forward forward forward	go to the microwave_2
+go to the microwave	forward forward forward forward forward forward	go to the microwave_2_1
+go to the microwave	right right forward forward forward forward forward forward forward	go to the microwave_3
+go to the microwave	right right forward forward forward	go to the microwave_3_1
+go to the microwave	left forward forward forward forward forward forward forward	go to the microwave_4
+go to the microwave	left forward forward forward forward forward	go to the microwave_4_1
+go to the microwave	left left forward forward forward forward forward forward forward forward right	go to the microwave_5
+go to the microwave	left left forward forward forward forward forward forward forward right	go to the microwave_5_1
+go to the microwave	left left left forward forward forward forward	go to the microwave_6
+go to the microwave	left left left forward forward forward	go to the microwave_6_1
+go to the microwave	left left left left forward forward forward forward forward forward forward	go to the microwave_7
+go to the microwave	left left left forward forward forward forward forward	go to the microwave_7_1
+go to the microwave	left forward forward forward forward forward forward forward forward forward forward	go to the microwave_8
+go to the microwave	left forward forward forward forward forward forward forward	go to the microwave_8_1
+go to the microwave	left forward forward forward forward forward forward forward forward forward forward forward	go to the microwave_9
+go to the microwave	left forward forward forward forward forward forward forward forward	go to the microwave_9_1
+go to the microwave	left left left forward forward forward forward forward	go to the microwave_10
+go to the microwave	left left forward forward forward forward	go to the microwave_10_1
+go to the microwave	left forward forward forward forward forward left forward forward forward forward forward forward	go to the microwave_11
+go to the microwave	left forward forward forward forward left forward forward forward forward	go to the microwave_11_1
+go to the microwave	left forward forward forward forward forward forward forward forward forward forward forward forward left	go to the microwave_12
+go to the microwave	forward forward forward	go to the microwave_13
+go to the microwave	left left forward forward forward	go to the microwave_14
+go to the microwave	left forward forward forward forward forward forward forward	go to the microwave_15
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_0
+go to the microwave and turn right, stop by the door	left left forward forward forward forward forward right forward forward forward forward forward forward forward	go to the microwave_1
+go to the microwave and turn right, stop by the door	left left forward forward forward right forward forward forward forward right right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_1_1
+go to the microwave and turn right, stop by the door	forward forward forward forward forward forward forward forward forward right right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_2
+go to the microwave and turn right, stop by the door	forward forward forward forward forward forward forward right right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_2_1
+go to the microwave and turn right, stop by the door	right right forward forward forward forward forward forward forward right right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_3
+go to the microwave and turn right, stop by the door	right right forward forward forward right right right forward forward forward right forward forward	go to the microwave and turn right, stop by the door_3_1
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward right right right forward forward forward forward	go to the microwave and turn right, stop by the door_4
+go to the microwave and turn right, stop by the door	left forward forward forward forward right right right forward forward forward right forward forward	go to the microwave and turn right, stop by the door_4_1
+go to the microwave and turn right, stop by the door	left left forward forward forward forward forward forward forward forward right right right right right forward forward forward	go to the microwave and turn right, stop by the door_5
+go to the microwave and turn right, stop by the door	left left forward forward forward forward forward forward forward right right right right right right forward forward forward	go to the microwave and turn right, stop by the door_5_1
+go to the microwave and turn right, stop by the door	left left left forward forward forward forward right forward forward forward right forward forward	go to the microwave and turn right, stop by the door_6
+go to the microwave and turn right, stop by the door	left left left forward forward forward forward right right right right forward forward forward 	go to the microwave and turn right, stop by the door_6_1
+go to the microwave and turn right, stop by the door	left left left left forward forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_7
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_8
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_8_1
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_9
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward forward right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_9_1
+go to the microwave and turn right, stop by the door	left left left forward forward forward forward forward right right right forward forward forward forward forward	go to the microwave and turn right, stop by the door_10
+go to the microwave and turn right, stop by the door	left left forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_10_1
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward left forward forward forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_11
+go to the microwave and turn right, stop by the door	left forward forward forward forward left forward forward forward forward right right right right forward forward forward	go to the microwave and turn right, stop by the door_11_1
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward forward forward forward forward forward left	go to the microwave_12
+go to the microwave and turn right, stop by the door	left left forward forward forward	go to the microwave_14
+go to the microwave and turn right, stop by the door	left forward forward forward forward forward forward forward	go to the microwave_15
